@@ -16,7 +16,7 @@
     "crypto": "1.0.1",
     "extended-css": "git+https://github.com/AdguardTeam/ExtendedCss.git#v1.3.10",
     "filters-downloader": "git+https://github.com/AdguardTeam/FiltersDownloader.git#v1.1.1",
-    "jsdom": "^16.3.0",
+    "jsdom": "^16.5.0",
     "md5": "2.2.1",
     "moment": "^2.24.0",
     "scriptlets": "git+https://github.com/AdguardTeam/Scriptlets.git#v1.3.15",
